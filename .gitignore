@@ -1,0 +1,5 @@
+# custom
+*.pem
+hello.*
+index.php
+hidden/
